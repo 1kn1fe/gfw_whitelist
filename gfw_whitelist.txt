@@ -113,6 +113,7 @@
 ||amazon.cn
 ||anjuke.com
 ||anquan.org
+||anquanke.com
 ||anzhi.com
 ||appgame.com
 ||appinn.com
@@ -262,6 +263,7 @@
 ||gitee.com
 ||gmw.cn
 ||golaravel.com
+||govuln.com
 ||gtimg.cn
 ||guancha.cn
 ||guokr.com
@@ -269,6 +271,7 @@
 ! H
 ||h-ui.net
 ||h2os.com
+||hacking8.com
 ||hacpai.com
 ||halyul.cc
 ||hao123.com
@@ -359,6 +362,7 @@
 ||kan300.com
 ||kancloud.cn
 ||kankan.com
+||kanxue.com
 ||kekenet.com
 ||kf5.com
 ||kingsoft.com
@@ -474,6 +478,7 @@
 ||pcbeta.com
 ||pdcicons.ml
 ||pdim.gs
+||pediy.com
 ||pengyou.com
 ||phonegap100.com
 ||phpcomposer.com
@@ -535,6 +540,7 @@
 ||sciencemag.org
 ||sciencenet.cn
 ||sdo.com
+||secpulse.com
 ||seele.tech
 ||segmentfault.com
 ||sekorm.com
@@ -710,4 +716,5 @@
 ||zimuzu.tv
 ||znyj365.com
 ||zol.com.cn
+||zsxq.com
 ||zuk.cn
