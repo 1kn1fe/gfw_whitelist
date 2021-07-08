@@ -547,6 +547,7 @@
 ||sekorm.com
 ||sensorsdata.cn
 ||sf-express.com
+||shengcaiyoushu.com
 ||shikezhi.com
 ||shimo.im
 ||shiyanlou.com
