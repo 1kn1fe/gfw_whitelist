@@ -667,6 +667,7 @@
 ||xcar.com.cn
 ||xclient.info
 ||xf9168.com
+||xhscdn.com
 ||xiachufang.com
 ||xiami.com
 ||xiaohongshu.com
