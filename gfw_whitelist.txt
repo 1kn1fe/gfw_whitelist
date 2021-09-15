@@ -592,6 +592,7 @@
 ||tapimg.com
 ||taptap.com
 ||tbcdn.cn
+||tencent-cloud.com
 ||tencent.com
 ||tencentmind.com
 ||tenpay.com
