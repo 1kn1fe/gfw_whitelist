@@ -133,6 +133,7 @@
 ||bankcomm.com
 ||baozoumanhua.com
 ||battlenet.com.cn
+||bayescom.com
 ||bdimg.com
 ||bdstatic.com
 ||behe.com
