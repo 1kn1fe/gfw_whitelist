@@ -512,8 +512,10 @@
 ||qiyi.com
 ||qiyukf.com
 ||qlogo.cn
+||qlogo.com
 ||qnssl.com
 ||qpic.cn
+||qpic.com
 ||qq.com
 ||qqmail.com
 ||qqzzz.net
