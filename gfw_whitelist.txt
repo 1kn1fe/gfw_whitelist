@@ -156,6 +156,7 @@
 ||bumimi.com
 ||buu.edu.cn
 ||bybbs.org
+||byted-static.com
 
 ! C
 ||cachemoment.com
