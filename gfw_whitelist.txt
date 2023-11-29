@@ -452,6 +452,7 @@
 ||muscache.com
 ||mxhichina.com
 ||mydrivers.com
+||mylocalhost.com
 ||myqcloud.com
 
 ! N
